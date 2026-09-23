@@ -1,0 +1,7 @@
+{
+  "cookie": "sessionid=填你自己的",
+  "lesson_id": "",
+  "ai_base": "https://api.deepseek.com",
+  "ai_key": "填你自己的",
+  "ai_model": "deepseek-flash"
+}

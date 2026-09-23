@@ -1,0 +1,6 @@
+﻿logs/
+watch.lock
+__pycache__/
+*.pyc
+*.log
+replace-repo.ps1
